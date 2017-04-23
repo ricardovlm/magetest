@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magetest/lib/web/mage/translate-inline.js

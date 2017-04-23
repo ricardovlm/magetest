@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magetest/vendor/magento/module-catalog/view/adminhtml/web/component/image-size-field.js

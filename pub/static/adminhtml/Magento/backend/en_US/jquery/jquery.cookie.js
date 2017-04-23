@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magetest/lib/web/jquery/jquery.cookie.js

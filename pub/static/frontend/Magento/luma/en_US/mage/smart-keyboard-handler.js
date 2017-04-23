@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magetest/lib/web/mage/smart-keyboard-handler.js
